@@ -1,8 +1,8 @@
 # Lecture-Vue.js
-Inflearn의 Vue.js 강의를 수료 후 정리한 프로젝트
+## Inflearn의 Vue.js 강의를 수료 후 정리한 프로젝트
 
 - Trello라는 프로젝트 관리 소프트웨어의 화면 일부를 Vue.js로 구현한 강의 
-- https://trello.com/
+- Trello page : https://trello.com/
 
 
 
@@ -11,6 +11,10 @@ Inflearn의 Vue.js 강의를 수료 후 정리한 프로젝트
 ![board3](https://user-images.githubusercontent.com/61316086/121897057-f2da2500-cd5c-11eb-8411-95dfdcd5c2ee.JPG)
 
 ![card1](https://user-images.githubusercontent.com/61316086/121897137-038a9b00-cd5d-11eb-8031-d659778a6242.JPG)
+
+![side](https://user-images.githubusercontent.com/61316086/121897567-78f66b80-cd5d-11eb-9acd-8918bbf0c1c8.JPG)
+
+
 
 
 
