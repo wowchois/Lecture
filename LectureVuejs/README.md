@@ -1,4 +1,4 @@
-# Lecture-Vue.js
+# LectureVuejs
 ## Inflearn의 Vue.js 강의를 수료 후 정리한 프로젝트
 
 - Trello라는 프로젝트 관리 소프트웨어의 화면 일부를 Vue.js로 구현한 강의 
