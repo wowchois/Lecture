@@ -1,5 +1,5 @@
 # Lecture
-### Inflearn에서 수료한 강의를 정리한 프로젝트
+## Inflearn에서 수료한 강의를 정리한 프로젝트
 
 
 ### Lecture-Vue.js
